@@ -1,0 +1,12 @@
+======= from design to code tutorial by ultrasdzcoder =======
+1.analyze the design  
+2.extract all images
+3.extract all colors
+4.extract all colors
+5.extract all texts
+5.plan to coding 
+6.make project structure
+7.start to coding 
+8.make your framework
+8.fix issues
+
